@@ -1,4 +1,4 @@
-EtherEx
+tExchange
 =======
 [![Build Status](https://travis-ci.org/etherex/etherex.svg?branch=master)](https://travis-ci.org/etherex/etherex)
 [![Dependency Status](https://david-dm.org/etherex/etherex.svg?path=frontend)](https://david-dm.org/etherex/etherex?path=frontend)
